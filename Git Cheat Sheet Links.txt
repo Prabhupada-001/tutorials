@@ -9,5 +9,5 @@ https://hackr.io/blog/devops-interview-questions
 
 https://hackr.io/blog/sql-cheat-sheet
 
-https://hackr.io/blog/java-cheat-sheet   
+https://hackr.io/blog/java-cheat-sheet     
 
